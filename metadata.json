@@ -1,0 +1,7 @@
+{
+  "name": "Cebu Creative Gig Map",
+  "description": "Interactive map and community gig platform connecting Cebu's creative musical pulse with live gig feeds, interactive pin dropping, and moderation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
